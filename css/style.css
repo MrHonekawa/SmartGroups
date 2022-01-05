@@ -44,6 +44,14 @@ a{
   flex-wrap: wrap;
   width: 100%;
 }
+.special-ratings-box{
+  width: 500px;
+  box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
+  background-color: linear-gradient(45deg, purple, green);
+  padding: 20px;
+  margin: 15px;
+  cursor: pointer;
+}
 .ratings-box{
   width: 500px;
   box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
